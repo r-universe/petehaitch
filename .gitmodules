@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "GenomicTuples"]
-	path = GenomicTuples
-	url = https://github.com/petehaitch/genomictuples
-	shallow = true
-	registered = true
 [submodule "DelayedMatrixStats"]
 	path = DelayedMatrixStats
 	url = https://github.com/petehaitch/delayedmatrixstats
+	shallow = true
+	registered = true
+[submodule "GenomicTuples"]
+	path = GenomicTuples
+	url = https://github.com/petehaitch/genomictuples
 	shallow = true
 	registered = true

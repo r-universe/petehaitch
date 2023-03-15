@@ -1,8 +1,8 @@
 [
   {
-    "package": "GenomicTuples"
+    "package": "DelayedMatrixStats"
   },
   {
-    "package": "DelayedMatrixStats"
+    "package": "GenomicTuples"
   }
 ]
